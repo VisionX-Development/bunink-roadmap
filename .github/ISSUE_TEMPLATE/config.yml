@@ -4,8 +4,8 @@ contact_links:
     url: https://github.com/VisionX-Development/bunink-roadmap/discussions
     about: Not a concrete request? Ask in Discussions — workflows, how-tos, ideas that aren't ready to be an issue yet.
   - name: Security problem or account trouble
-    url: mailto:info@bun.ink
-    about: Please report security issues and anything involving your account or payment details privately.
+    url: https://github.com/VisionX-Development/bunink-roadmap#security
+    about: Report security issues and anything involving your account or payment details privately by email, not here.
   - name: bun.ink
     url: https://bun.ink/?utm_source=github&utm_medium=roadmap&utm_campaign=issue_template
     about: The app itself — 14 days free, no credit card.
