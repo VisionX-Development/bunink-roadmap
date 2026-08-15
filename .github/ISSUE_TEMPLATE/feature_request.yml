@@ -1,0 +1,47 @@
+name: Feature request
+description: Suggest something bun.ink should be able to do
+labels: ['status: planned']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time. Before you write: please [search the existing issues](../../issues?q=is%3Aissue) — if your idea is already there, a 👍 on it counts more than a duplicate.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Describe the situation you run into, not the solution. This is the part we can actually design against.
+      placeholder: When I work on a chapter with an editor, I have to ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would help?
+      description: If you already have a concrete idea, describe it here. Optional.
+    validations:
+      required: false
+
+  - type: textarea
+    id: workaround
+    attributes:
+      label: How do you handle it today?
+      description: Your current workaround — including "I don't, I gave up on it".
+    validations:
+      required: false
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which part of bun.ink?
+      options:
+        - Editor and writing
+        - GitHub integration
+        - Privacy and encryption
+        - Mobile
+        - Billing and account
+        - Something else / not sure
+    validations:
+      required: true
