@@ -1,6 +1,5 @@
 name: Feature request
 description: Suggest something bun.ink should be able to do
-labels: ['status: planned']
 body:
   - type: markdown
     attributes:

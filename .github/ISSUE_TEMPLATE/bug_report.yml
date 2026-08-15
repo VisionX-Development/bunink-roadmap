@@ -1,6 +1,5 @@
 name: Bug report
 description: Something in bun.ink is broken or behaves unexpectedly
-labels: ['status: planned']
 body:
   - type: markdown
     attributes:
