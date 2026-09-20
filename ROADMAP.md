@@ -8,13 +8,14 @@ Already shipped: GitHub sync with branches and commits, pull-request review in t
 
 Being worked on right now.
 
-- [Writing statistics: time of day and branch-level word counts](../../issues/2)
-- [Change the passphrase of an encrypted area without losing access](../../issues/3) — real key rotation for high-privacy areas
+Nothing at the moment — pull-request review just shipped and nothing has taken its place yet. We would rather say so than leave an item sitting here that nobody is touching. What we pick up next is below, and 👍 moves things up.
 
 ## Next
 
 Decided, not started.
 
+- [Writing statistics: time of day and branch-level word counts](../../issues/2)
+- [Change the passphrase of an encrypted area without losing access](../../issues/3) — real key rotation for high-privacy areas
 - [Export to PDF, DOCX and ePub](../../issues/4)
 - [Auto-save and crash recovery](../../issues/5)
 - [Images and attachments inside documents](../../issues/6)
