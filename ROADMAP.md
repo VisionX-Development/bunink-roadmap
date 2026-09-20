@@ -2,13 +2,12 @@
 
 What we are building for [bun.ink](https://bun.ink/?utm_source=github&utm_medium=roadmap&utm_campaign=roadmap_md). No dates — order signals intent, not a schedule. Each item links an issue: 👍 to vote, comment to shape it.
 
-Already shipped: GitHub sync with branches and commits, encrypted high-privacy projects and folders, full-text search, writing statistics with streaks and heatmap, snippets, mobile writing, Markdown export.
+Already shipped: GitHub sync with branches and commits, pull-request review in the editor, encrypted high-privacy projects and folders, full-text search, writing statistics with streaks and heatmap, snippets, mobile writing, Markdown export.
 
 ## Now
 
 Being worked on right now.
 
-- [Pull-request review: work with an editor on a draft](../../issues/1) — open a PR from a branch, review and accept suggestions without leaving the editor
 - [Writing statistics: time of day and branch-level word counts](../../issues/2)
 - [Change the passphrase of an encrypted area without losing access](../../issues/3) — real key rotation for high-privacy areas
 
