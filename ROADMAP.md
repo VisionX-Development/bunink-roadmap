@@ -8,7 +8,7 @@ Already shipped: GitHub sync with branches and commits, pull-request review in t
 
 Being worked on right now.
 
-Nothing at the moment — pull-request review just shipped and nothing has taken its place yet. We would rather say so than leave an item sitting here that nobody is touching. What we pick up next is below, and 👍 moves things up.
+No new feature is in the works at the moment. We are putting the existing ones through their paces — going after edge cases, tightening rough spots and fixing the smaller bugs that turn up. That work does not get its own entry, but it is what most weeks look like between features. What we pick up next is below, and 👍 moves things up.
 
 ## Next
 
